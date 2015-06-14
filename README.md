@@ -1,6 +1,5 @@
 2048
 ====
 
-game2048 with javascript by codewin
+game2048 with javascript
 
-this is not using the oop
